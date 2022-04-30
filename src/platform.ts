@@ -56,13 +56,9 @@ export class ExampleHomebridgePlatform implements DynamicPlatformPlugin {
     // or a user-defined array in the platform config.
     const exampleDevices = [
       {
-        exampleUniqueId: 'ABCD',
-        exampleDisplayName: 'Bedroom',
-      },
-      {
-        exampleUniqueId: 'EFGH',
-        exampleDisplayName: 'Kitchen',
-      },
+        exampleUniqueId: 'rf-001',
+        exampleDisplayName: 'Terassenbeleuchtung',
+      }
     ];
 
     // loop over the discovered devices and register each one if it has not already been registered
