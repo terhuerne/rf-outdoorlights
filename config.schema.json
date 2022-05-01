@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "RF Outdoor Lights",
   "pluginType": "platform",
   "singular": true,
   "schema": {
